@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BindableBase.UWP")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simple Bindable Base Abstract Class for Databinding/MVVM pattern.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("BindableBase.UWP")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("This package is complete open source.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
