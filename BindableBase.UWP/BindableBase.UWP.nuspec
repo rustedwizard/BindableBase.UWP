@@ -6,12 +6,12 @@
     <title>$title$</title>
     <authors>Rusted Wizard</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/rustedwizard/BindableBase.UWP</licenseUrl>
+    <license type="expression">MIT</license>
     <projectUrl>https://github.com/rustedwizard/BindableBase.UWP</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>A C# Library targeting UWP (version 10586/November update to 17763/October Update) that implment INotifypropertyChanged interface for DataBidning. Save your time so you don't need to write yourself.</releaseNotes>
-    <copyright>Copyright 2018</copyright>
+    <releaseNotes>A C# Library targeting UWP (version 10586 to 18363) that implment INotifypropertyChanged interface for DataBidning. Save your time so you don't need to write yourself.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
     <tags>UWP DataBinding</tags>
   </metadata>
 </package>
